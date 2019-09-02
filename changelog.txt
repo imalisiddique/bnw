@@ -1,0 +1,9 @@
+== Changelog ==
+
+    = 2.0.0 - April 27 2019 =
+    * Upgrade new
+
+    = 1.6.06 - April 13 2015 =
+    * Initial release
+
+    
